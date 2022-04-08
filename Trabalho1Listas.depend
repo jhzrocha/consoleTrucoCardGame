@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1649378430 source:c:\users\joaoh\desktop\trabalho1listas\main.cpp
+	<iostream>
+	"jogador.h"
+	"Carta.h"
+	"baralho.h"
+	"ListaEncadeadaSimples.h"
+	"ListaDuplamenteEncadeadaLog.h"
+	"jogo.h"
+
+1649448240 c:\users\joaoh\desktop\trabalho1listas\jogador.h
+	<iostream>
+	"Carta.h"
+	"ListaEncadeadaSimples.h"
+	"ListaDuplamenteEncadeadaLog.h"
+	"baralho.h"
+
+1649372795 c:\users\joaoh\desktop\trabalho1listas\carta.h
+	<iostream>
+
+1649378073 c:\users\joaoh\desktop\trabalho1listas\listaencadeadasimples.h
+
+1649414418 c:\users\joaoh\desktop\trabalho1listas\baralho.h
+
+1649378027 c:\users\joaoh\desktop\trabalho1listas\listaduplamenteencadeadalog.h
+	"jogador.h"
+	"Carta.h"
+
+1649449043 c:\users\joaoh\desktop\trabalho1listas\jogo.h
+	"jogador.h"
+	<cstdlib>
+	<ctime>
+	<Windows.h>
+	<unistd.h>
+
